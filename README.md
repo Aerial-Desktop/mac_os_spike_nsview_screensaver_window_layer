@@ -1,6 +1,21 @@
 # mac_os_spike_nsview_screensaver_window_layer
 researching what happened for window management with sierra upgrading to high sierra
 
+## Work from a certainty:
+Uebersicht, actually reached the layer that I want on the latest OperatingSystems.
+
+#### Test that ubersicht puts widgets on your desktop view layer:
+https://github.com/MichaelDimmitt/ubersicht-starter-package
+
+#### Analysis of uebersicht architecture:
+1) Majority of the code is objective-c
+2) more to come.
+
+#### Additionals to look at:
+Tiling window manager for IOS https://github.com/koekeishiya/chunkwm
+
+https://koekeishiya.github.io/chunkwm/
+
 ## Main Research path thus far:
 Starting at the ScreenSaver Documentation, which inherits from NS_View.
 <br/>https://developer.apple.com/documentation/screensaver
