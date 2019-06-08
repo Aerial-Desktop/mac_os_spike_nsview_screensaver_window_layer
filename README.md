@@ -37,6 +37,7 @@ Helpful Keywords: "Managing the View’s Layer"
 
 https://www.raywenderlich.com/3246-calayers/lessons/1
 
+https://iscreensaver.com/help/notes/high_sierra/high_sierra.shtml
 
 ## Additional things to look up: 
 Desktop Background view layer.
